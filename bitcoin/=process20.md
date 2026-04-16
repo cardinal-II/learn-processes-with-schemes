@@ -20,7 +20,7 @@ entropy(["Generate entropy
     with the dice"]);
 copy_tools_to_airgapped(["Copy tools 
     to air-gapped device"]);
-begin_converting([Begin converting]);
+begin_converting[Begin converting];
 convert_numbers_a(["With script `convert.sh`,
     convert the dice numbers 
     to a seed phrase"]);
