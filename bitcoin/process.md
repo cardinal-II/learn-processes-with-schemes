@@ -19,7 +19,7 @@ success(успех)
 dont("не делай 
 убыточные дела")
 
-click prepare "https://github.com/cardinal-II/learn-processes-with-schemes/blob/main/bitcoin/Prepare%20devices%20and%20files.md" "Tooltip"
+click prepare "https://github.com/cardinal-II/learn-processes-with-schemes/blob/main/bitcoin/Prepare%20devices%20and%20files.md" "Tooltip" _blank
 
 
 style schedule fill:#f9f,stroke:#333,stroke-width:4px
