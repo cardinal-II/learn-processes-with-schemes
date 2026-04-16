@@ -6,3 +6,5 @@ Prepare:
 - A regular laptop with the internet;
 - a set of 8-sided dice;
 - a smartphone with app BlueWallet;
+- a pen and paper;
+- a steel plate (optional);
