@@ -47,7 +47,9 @@ check_used(["Check
 
 used{Used?}
 yes3[Yes]
-lucky[You're lucky]
+lucky["You're lucky
+    and you have to create 
+    a new wallet."]
 no3[No]
 wallet_created["Wallet created. 
     Create another one."]
