@@ -52,7 +52,8 @@ lucky["You're lucky
     a new wallet."]
 no3[No]
 wallet_created["Wallet created. 
-    Create another one."]
+    Create another one
+    if needed."]
 
 ```
 
