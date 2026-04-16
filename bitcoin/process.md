@@ -19,10 +19,19 @@ success(успех)
 dont("не делай 
 убыточные дела")
 
-class prepare internal-link;
+click prepare "Prepare devices and files.md" "Open Prepare"
+
 
 style schedule fill:#f9f,stroke:#333,stroke-width:4px
 
+```
+
+```mermaid
+graph TD
+    A[Architecture] --> B[Database]
+
+    click A "architecture/README.md" "Open Architecture"
+    click B "database/README.md" "Open Database"
 ```
 
 You are welcome to contribute by finding a question in the issues section you have answer to. You do pull-requests and I'll merge.
