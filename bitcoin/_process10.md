@@ -22,6 +22,8 @@ click prepare "https://github.com/cardinal-II/learn-processes-with-schemes/blob/
 
 click download_tools "https://github.com/cardinal-II/learn-processes-with-schemes/blob/main/bitcoin/Download%20tools.md" "Open" _blank
 
+click 3_wallets "https://github.com/cardinal-II/learn-processes-with-schemes/blob/main/bitcoin/_process20.md" "Open" _blank
+
 style download_tools fill:#FCC6BB, stroke:#333;
 style create_converter fill:#FCC6BB, stroke:#333;
 style create_spreadsheet fill:#FCC6BB, stroke:#333;
