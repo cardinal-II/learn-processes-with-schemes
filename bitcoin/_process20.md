@@ -13,7 +13,7 @@ flowchart TD
     yes1 & ian_coleman --> compare_paths --> equal --> yes2 & no2;
     no2 e1@--> begin_converting;
     yes2 --> check_used --> used --> no3 & yes3;
-    yes3 --> lucky e1@--> entropy;
+    yes3 --> lucky e2@--> entropy;
     no3 --> wallet_created;
     
 entropy(["Generate entropy 
@@ -41,6 +41,7 @@ equal{Equal?};
 yes2[Yes]
 no2[No];
 e1@{ animation: fast };
+e2@{ animation: fast };
 check_used(["Check 
     if the wallet has been used"])
 
