@@ -19,19 +19,10 @@ success(успех)
 dont("не делай 
 убыточные дела")
 
-click prepare "Prepare devices and files.md" "Open Prepare"
+click prepare "https://github.com/cardinal-II/learn-processes-with-schemes/blob/main/bitcoin/Prepare%20devices%20and%20files.md" "Tooltip" _blank
 
 
 style schedule fill:#f9f,stroke:#333,stroke-width:4px
-
-```
-
-```mermaid
-graph TD
-    A[Architecture] --> B[Database]
-
-    click A "architecture/README.md" "Open Architecture"
-    click B "database/README.md" "Open Database"
 ```
 
 You are welcome to contribute by finding a question in the issues section you have answer to. You do pull-requests and I'll merge.
