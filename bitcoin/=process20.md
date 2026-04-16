@@ -55,6 +55,8 @@ wallet_created["Wallet created.
     Create another one
     if needed."]
 
+click begin_converting "https://github.com/cardinal-II/learn-processes-with-schemes/blob/main/bitcoin/Begin%20converting.md" "Open" _blank
+
 ```
 
 aa
