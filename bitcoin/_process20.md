@@ -54,7 +54,6 @@ no3[No]
 wallet_created["Wallet created. 
     Create another one."]
 
-style copy_tools_to_airgapped fill:#A2F4FD, stroke:#333;
 ```
 
 aa
